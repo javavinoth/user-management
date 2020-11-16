@@ -8,11 +8,11 @@ spring:
     oauth2:
       client:
         registration:
-          google:
+          googlewww:
             client-id: 1060579374994-36lde3ivg152b1ssov1lp1i125efqk9q.apps.googleusercontent.com
             client-secret: 3su-GxAEIdqvRHexHx5qXPSs
           github:
-            client-id: dummy
+            client-id: dummy1
             client-secret: dummy
           facebook:
             client-id: dummy
