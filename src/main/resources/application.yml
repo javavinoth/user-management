@@ -12,7 +12,7 @@ spring:
             client-id: 1060579374994-36lde3ivg152b1ssov1lp1i125efqk9q.apps.googleusercontent.com
             client-secret: 3su-GxAEIdqvRHexHx5qXPSs
           github:
-            client-id: dummy1
+            client-id: dummy
             client-secret: dummy
           facebook:
             client-id: dummy
