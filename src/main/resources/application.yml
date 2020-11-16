@@ -1,0 +1,27 @@
+spring:
+  data:
+    mongodb:
+      database: authentication
+      host: localhost
+      port: 27017
+  security:
+    oauth2:
+      client:
+        registration:
+          google:
+            client-id: 1060579374994-36lde3ivg152b1ssov1lp1i125efqk9q.apps.googleusercontent.com
+            client-secret: 3su-GxAEIdqvRHexHx5qXPSs
+          github:
+            client-id: dummy
+            client-secret: dummy
+          facebook:
+            client-id: dummy
+            client-secret: dummy
+          
+
+logging:
+  level:
+    org:
+      springframework:
+        security: debug
+
